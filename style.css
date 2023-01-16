@@ -58,7 +58,7 @@ body {
 	color: var(--GrayishBlue);
 	font-size: 1rem;
 	font-weight: 400;
-	margin: 0 10px;
+	margin: 0 0.667em;
 }
 
 .attribution {
@@ -66,5 +66,5 @@ body {
 	text-align: center;
 }
 .attribution a {
-	color: hsl(228, 45%, 44%);
+	color: var(--DarkBlue);
 }
