@@ -51,14 +51,14 @@ body {
 	color: var(--DarkBlue);
 	font-size: 1.467rem;
 	font-weight: 700;
-	margin-bottom: 0;
 }
 
 .card-text {
 	text-align: center;
 	color: var(--GrayishBlue);
-	font-size: 1.133rem;
+	font-size: 1rem;
 	font-weight: 400;
+	margin: 0 10px;
 }
 
 .attribution {
